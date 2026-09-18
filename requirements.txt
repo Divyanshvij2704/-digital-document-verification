@@ -1,0 +1,7 @@
+Flask
+gunicorn
+google-cloud-storage
+google-cloud-firestore
+firebase-admin
+qrcode[pil]
+reportlab
